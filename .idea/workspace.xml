@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a969a041-b968-42ad-b8f3-083b26d639ba" name="Changes" comment="Add DAO, Service, Controller, Entity">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/idrsv/spring/rest/exception_handling/EmployeeGlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/idrsv/spring/rest/exception_handling/EmployeeIncorrectData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/idrsv/spring/rest/exception_handling/NoSuchEmployeeException.java" afterDir="false" />
+    <list default="true" id="a969a041-b968-42ad-b8f3-083b26d639ba" name="Changes" comment="Edit MyRestController, add package exception_handling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/idrsv/spring/rest/controller/MyRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/idrsv/spring/rest/controller/MyRestController.java" afterDir="false" />
     </list>
@@ -176,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666791861801</updated>
-      <workItem from="1666791863472" duration="10479000" />
+      <workItem from="1666791863472" duration="12447000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;1&quot;">
       <created>1666791921213</created>
@@ -199,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666803496282</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Edit MyRestController, add package exception_handling">
+      <created>1666805054778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666805054778</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +224,7 @@
     <MESSAGE value="&quot;1&quot;" />
     <MESSAGE value="&quot;First true commit&quot;" />
     <MESSAGE value="Add DAO, Service, Controller, Entity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add DAO, Service, Controller, Entity" />
+    <MESSAGE value="Edit MyRestController, add package exception_handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit MyRestController, add package exception_handling" />
   </component>
 </project>
